@@ -57,7 +57,7 @@ Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
 ### Universidade da California - Berkeley
 https://blockchain.berkeley.edu<br>
-**Profissional Certificate Program in Blockchain**<br>
+**Blockchain Professional Certification Program**<br>
 **2021**<br>
 **Nota:** 10.0
 
