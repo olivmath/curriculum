@@ -23,7 +23,7 @@ Além disso, participei ativamente no processo de seleção e *On-Board* de novo
 **Professor de Robótica**<br>
 **2020.fev - 2021.jun**
 
-Ajudei a resolver problemas de aprendizado/comportamento entres os alunos usando um sistema de gamificação usando **Machine Learning** para criação de métricas e acompanhamento.
+Ajudei a resolver problemas de aprendizado/comportamento entres os alunos usando um sistema de gamificação baseado em **Machine Learning** para criação de métricas e acompanhamento.
 No dia a dia dava aulas de robótica/computação usando **Arduino/ThinkerCAD** como plataforma de prototipagem e **Scratch/C++** para ensino de lógica e programação.
 
 ### Colégio Objetivo - Escola Champagnat
