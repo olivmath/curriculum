@@ -36,7 +36,7 @@ https://www.myrobot.com.br<br>
 **2020.fev - 2021.jun**
 
 Ajudei a resolver problemas de aprendizado/comportamento dos alunos criando um sistema de gamificação usando **machine learning** para criação de métricas e acompanhamento.
-No dia-dia dei aulas de robótica/computação usando **arduino** como plataforma de prótotipagem e **scratch/C++** para ensino de lógica e programação.
+No dia a dia dei aulas de robótica/computação usando **arduino** como plataforma de prótotipagem e **scratch/C++** para ensino de lógica e programação.
 
 ### Colégio Objetivo - Escola Champagnat
 https://escolachampagnat.com.br<br>
