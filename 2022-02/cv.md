@@ -36,7 +36,7 @@ https://www.myrobot.com.br<br>
 **2020.fev - 2021.jun**
 
 Ajudei a resolver problemas de aprendizado/comportamento dos alunos criando um sistema de gamificação usando **Machine Learning** para criação de métricas e acompanhamento.
-No dia a dia dei aulas de robótica/computação usando **Arduino/ThinkerCAD** como plataforma de prótotipagem e **Scratch/C++** para ensino de lógica e programação.
+No dia a dia dava aulas de robótica/computação usando **Arduino/ThinkerCAD** como plataforma de prototipagem e **Scratch/C++** para ensino de lógica e programação.
 
 ### Colégio Objetivo - Escola Champagnat
 https://escolachampagnat.com.br<br>
@@ -70,7 +70,7 @@ https://impa.br/eventos-do-impa/2020-2/impa-cemeai/<br>
 **2020**<br>
 **Nota:** 8.0
 
-Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **machine learning** baseado em regresão logistica para previsão preventiva de problemas relacionados a produção de chapas de aço. 
+Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **machine learning** baseado em regresão logística para previsão preventiva de problemas relacionados a produção de chapas de aço. 
 
 ### Universidade do Oeste Paulista - UNOESTE
 https://unoeste.br<br>
@@ -81,4 +81,4 @@ https://unoeste.br<br>
 **Produção**: Estudo sobre os impactos da educação domiciliar (homeschooling) na socialização das crianças.
 
 **Atividades**: Durante a graduação participei do programa de monitoria de calouros.
-Ajudava alunos do curso de matemática, engenharia e administração da faculdade, bem como alunos do ensino médio da comunidade com dificuldades de aprendizado visto que a monitoria de matemática era a berta ao público.
+Ajudava alunos do curso de matemática, engenharia e administração da faculdade e alunos do ensino médio da comunidade pois a monitoria de matemática era a berta ao público.
