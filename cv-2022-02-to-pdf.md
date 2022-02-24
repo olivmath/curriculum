@@ -35,7 +35,7 @@ https://www.myrobot.com.br<br>
 **Professor de Robótica**<br>
 **2020.fev - 2021.jun**
 
-Ajudei a resolver problemas de aprendizado/comportamento entres os alunos usando um sistema de gamificação usando **machine learning** para criação de métricas e acompanhamento.
+Ajudei a resolver problemas de aprendizado/comportamento dos alunos usando um sistema de gamificação usando **machine learning** para criação de métricas e acompanhamento.
 No dia-dia dei aulas de robótica/computação usando **arduino** como plataforma de prótotipagem e **scratch/C++** para ensino de lógica e programação.
 
 ### Colégio Objetivo - Escola Champagnat
