@@ -43,7 +43,7 @@ https://escolachampagnat.com.br<br>
 **Estagiário de Matemática**<br>
 **2019.jun - 2019.dez**
 
-Desenvolvi um curso de algoritmos e lógica de programação para alunos do 6º e 7º ano, me baseando no livro “Pense em Python” - **Allen B. Downey**.
+Desenvolvi um curso de algoritmos e lógica de programação para alunos do 6º e 7º ano com base no livro “Pense em Python” - **Allen B. Downey**.
 Além disso dava aulas de Matemática e Física para alunos do Fundamental/Médio.<br>
 
 ### Escola Franco Montoro - EMEIF
