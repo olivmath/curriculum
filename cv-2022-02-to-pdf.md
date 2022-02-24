@@ -68,7 +68,7 @@ Nesse programa de especialização aprendemos sobre as mecânicas, vulnerabilida
 https://impa.br/eventos-do-impa/2020-2/impa-cemeai/<br>
 **Workshop Matemática e Indústria**<br>
 **2020**<br>
-**Nota**: 8.0
+**Nota:** 8.0
 
 Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **machine learning** baseado em regresão logistica para previsão preventiva de problemas relacionados a produção de chapas de aço. 
 
@@ -76,7 +76,7 @@ Participei da oficina de resolução de problemas da McKinsey&Company onde desen
 https://unoeste.br<br>
 **Matemática - Licenciatura**<br>
 **2017-2020**<br>
-**Nota: 7.15**
+**Nota:** 7.15
 
 **Produção**: Estudo sobre os impactos da educação domiciliar (homeschooling) na socialização das crianças.
 
