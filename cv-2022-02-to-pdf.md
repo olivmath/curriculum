@@ -59,7 +59,7 @@ Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 https://blockchain.berkeley.edu<br>
 **Profissional Certificate Program in Blockchain**<br>
 **2021**<br>
-**Nota: 10.0**
+**Nota:** 10.0
 
 Nesse programa de especialização aprendemos sobre as mecânicas, vulnerabilidades e diferenças entre protocolos de **Blockchain**. Na última parte do programa nos aprofundamos nos mecanismos de consenso fundamentais e alternativos e as barreiras de escalabilidade e regulamentação da tecnologia blockchain.
 
