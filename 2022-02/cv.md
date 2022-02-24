@@ -70,7 +70,7 @@ https://impa.br/eventos-do-impa/2020-2/impa-cemeai/<br>
 **2020**<br>
 **Nota:** 8.0
 
-Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **machine learning** baseado em regresão logística para previsão preventiva de problemas relacionados a produção de chapas de aço. 
+Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **Machine Learning** baseado em regressão logística para previsão preventiva de problemas relacionados a produção de chapas de aço. 
 
 ### Universidade do Oeste Paulista - UNOESTE
 https://unoeste.br<br>
