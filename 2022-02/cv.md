@@ -66,7 +66,7 @@ https://icolab.org.br<br>
 **Pesquisador Associado**<br>
 **2022 - `Atual`**<br>
 
-Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está volta de NFT e Tokenização.
+Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está voltada para NFT e Tokenização.
 
 ### Universidade da California - Berkeley
 
