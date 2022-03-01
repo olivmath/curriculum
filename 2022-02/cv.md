@@ -99,3 +99,5 @@ https://unoeste.br<br>
 
 **Atividades**: Durante a graduação participei do programa de monitoria de calouros.
 Ajudava alunos do curso de matemática, engenharia e administração da faculdade e alunos do ensino médio da comunidade pois a monitoria de matemática era aberta ao público.
+
+---
