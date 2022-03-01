@@ -58,6 +58,8 @@ Além disso dava aulas de Matemática e Física para alunos do Fundamental/Médi
 
 Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
+---
+
 ## Acadêmico
 
 ### Instituto Colaborativo de Blockchain - iCoLab

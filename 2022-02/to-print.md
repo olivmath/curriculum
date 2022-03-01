@@ -43,6 +43,8 @@ Além disso dava aulas de Matemática e Física para alunos do Fundamental/Médi
 
 Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
+---
+
 ## Acadêmico
 
 ### Instituto Colaborativo de Blockchain - iCoLab
@@ -56,7 +58,7 @@ Faço parte do projeto de produção e curadoria de artigos científios sobre bl
 
 **Profissional Certificate Program in Blockchain**<br>
 **2021**<br>
-**Nota: 10.0**
+**Nota:** 10.0
 
 Nesse programa de especialização aprendemos sobre as mecânicas, vulnerabilidades e diferenças entre protocolos de **Blockchain**. Na última parte do programa nos aprofundamos nos mecanismos de consenso fundamentais e alternativos e as barreiras de escalabilidade e regulamentação da tecnologia blockchain.
 
@@ -72,7 +74,7 @@ Participei da oficina de resolução de problemas da McKinsey&Company onde desen
 
 **Matemática - Licenciatura**<br>
 **2017-2020**<br>
-**Nota: 7.15**
+**Nota:** 7.15
 
 **Produção**: Estudo sobre os impactos da educação domiciliar (homeschooling) na socialização das crianças.
 
