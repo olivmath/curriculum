@@ -4,22 +4,24 @@ cell: (18) 9 8144-4497<br>
 email: olivmath@pm.me
 
 ## Perfil Profissional
+
 Trabalho com desenvolvimento de software desde 2020. Sempre focado em intraempreendedorismo e inovação.
 
 ## Experiência
 
 ### Lunes Platform
+
 **Tech Lead Blockchain**<br>
 **2020.fev - `Atual`**
 
 Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final implantando a cultura/ferramentas de **TDD** e **DevOps** com padronização de ambiente de desenvolvimento com Docker/Compose, gestão de atividades usando Issue, auto-MR e Milestone no Gitlab, automação usando CI/CD também no Gitlab e testes automatizados com Jest e Typescript.
 
-Também produzi o **SDK** para facilitar a integração com a *Lunes Blockchain* usando Typescript/JavaScript, Rust/WebAssembly, Docusaurus e Python
+Também produzi o **SDK** para facilitar a integração com a _Lunes Blockchain_ usando Typescript/JavaScript, Rust/WebAssembly, Docusaurus e Python
 
-Além disso, participei ativamente no processo de seleção e *On-Board* de novos membros organizando *Meetups* para nivelar conhecimento entres os equipes.
-
+Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entres os equipes.
 
 ### My Robot School
+
 **Professor de Robótica**<br>
 **2020.fev - 2021.jun**
 
@@ -27,6 +29,7 @@ Ajudei a resolver problemas de aprendizado/comportamento entres os alunos usando
 No dia a dia dava aulas de robótica/computação usando **Arduino/ThinkerCAD** como plataforma de prototipagem e **Scratch/C++** para ensino de lógica e programação.
 
 ### Colégio Objetivo - Escola Champagnat
+
 **Estagiário de Matemática**<br>
 **2019.jun - 2019.dez**
 
@@ -34,30 +37,39 @@ Desenvolvi um curso de algoritmos e lógica de programação para alunos do 6º 
 Além disso dava aulas de Matemática e Física para alunos do Fundamental/Médio.<br>
 
 ### Escola Franco Montoro - EMEIF
+
 **Estagiário de Matemática**<br>
 **2018.jun - 2018.dez**
 
-Dava aulas de Matemática para alunos do Infantil 3º e 4º ano. 
-
+Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
 ## Acadêmico
 
+### Instituto Colaborativo de Blockchain - iCoLab
+
+**Pesquisador Associado**<br>
+**2022 - `Atual`**<br>
+
+Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está volta de NFT e Tokenização.
+
 ### Universidade da California - Berkeley
+
 **Profissional Certificate Program in Blockchain**<br>
 **2021**<br>
 **Nota: 10.0**
 
 Nesse programa de especialização aprendemos sobre as mecânicas, vulnerabilidades e diferenças entre protocolos de **Blockchain**. Na última parte do programa nos aprofundamos nos mecanismos de consenso fundamentais e alternativos e as barreiras de escalabilidade e regulamentação da tecnologia blockchain.
 
-
 ### Instituto de Matemática Pura e Aplicada - IMPA
+
 **Workshop Matemática e Indústria**<br>
 **2020**<br>
 **Nota**: 8.0
 
-Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **Machine Learning** baseado em regresão logística para previsão preventiva de problemas relacionados a produção de chapas de aço. 
+Participei da oficina de resolução de problemas da McKinsey&Company onde desenvolvemos um modelo de **Machine Learning** baseado em regresão logística para previsão preventiva de problemas relacionados a produção de chapas de aço.
 
 ### Universidade do Oeste Paulista - UNOESTE
+
 **Matemática - Licenciatura**<br>
 **2017-2020**<br>
 **Nota: 7.15**
