@@ -64,7 +64,7 @@ Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
 https://icolab.org.br<br>
 **Pesquisador Associado**<br>
-**2022 - `Atual`**<br>
+**2021 - `Atual`**<br>
 
 Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está voltada para NFT e Tokenização.
 
