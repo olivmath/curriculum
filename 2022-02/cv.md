@@ -1,6 +1,6 @@
 # Lucas Oliveira
 
-linkedin: https://linkedin.com/olivmath<br>
+linkedin: https://linkedin.com/in/olivmath<br>
 github: https://github.com/olivmath<br>
 email: olivmath@pm.me<br>
 cell: (18) 9 8144-4497
