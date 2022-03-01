@@ -18,7 +18,7 @@ Ajudei na automação de processo diminuindo o tempo de entrega de software e au
 
 Também produzi o **SDK** para facilitar a integração com a _Lunes Blockchain_ usando Typescript/JavaScript, Rust/WebAssembly, Docusaurus e Python
 
-Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entres os equipes.
+Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entre as equipes.
 
 ### My Robot School
 
@@ -48,9 +48,9 @@ Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 ### Instituto Colaborativo de Blockchain - iCoLab
 
 **Pesquisador Associado**<br>
-**2022 - `Atual`**<br>
+**2021 - `Atual`**<br>
 
-Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está volta de NFT e Tokenização.
+Faço parte do projeto de produção e curadoria de artigos científios sobre blockchain. Minha pesquisa está voltada para NFT e Tokenização.
 
 ### Universidade da California - Berkeley
 
