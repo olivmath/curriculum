@@ -31,7 +31,7 @@ Também produzi o **SDK** para facilitar a integração com a _Lunes Blockchain_
 - Docusaurus
 - Python
 
-Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entres os equipes.
+Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entre as equipes.
 
 ### My Robot School
 
