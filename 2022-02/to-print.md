@@ -43,8 +43,6 @@ Além disso dava aulas de Matemática e Física para alunos do Fundamental/Médi
 
 Dava aulas de Matemática para alunos do Infantil 3º e 4º ano.
 
----
-
 ## Acadêmico
 
 ### Instituto Colaborativo de Blockchain - iCoLab
@@ -80,5 +78,3 @@ Participei da oficina de resolução de problemas da McKinsey&Company onde desen
 
 **Atividades**: Durante a graduação participei do programa de monitoria de calouros.
 Ajudava alunos do curso de matemática, engenharia e administração da faculdade e alunos do ensino médio da comunidade pois a monitoria de matemática era aberta ao público.
-
----
