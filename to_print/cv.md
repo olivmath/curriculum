@@ -58,7 +58,8 @@ Faço parte do projeto de produção e curadoria de artigos científios sobre bl
 **2021**<br>
 **Nota:** 10.0
 
-Nesse programa de especialização aprendemos sobre as mecânicas, vulnerabilidades e diferenças entre protocolos de **Blockchain**. Na última parte do programa nos aprofundamos nos mecanismos de consenso fundamentais e alternativos e as barreiras de escalabilidade e regulamentação da tecnologia blockchain.
+Nesse programa de especialização aprendi sobre as mecânicas, vulnerabilidades e diferenças entre protocolos de **Blockchain**. Na última parte do programa me aprofundei nos mecânismos de consenso fundamentais e alternativos e as barreiras de escalabilidade e regulamentação da tecnologia blockchain.
+
 
 ### Instituto de Matemática Pura e Aplicada - IMPA
 
