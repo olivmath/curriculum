@@ -14,9 +14,9 @@ Trabalho com desenvolvimento de software desde 2020. Sempre focado em intraempre
 **Tech Lead Blockchain**<br>
 **2020.fev - `Atual`**
 
-Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final implantando a cultura/ferramentas de **TDD** e **DevOps** com padronização de ambiente de desenvolvimento com Docker/Compose, gestão de atividades usando Issue, auto-MR e Milestone no Gitlab, automação usando CI/CD também no Gitlab e testes automatizados com Jest e Typescript.
+Ajudei na automação de processo diminuindo o tempo de entrega de software e aumentando a qualidade final, implantando a cultura/ferramentas de **TDD** e **DevOps** com: padronização de ambiente de desenvolvimento utilizando Docker/Compose, gestão de atividades usando Issue, auto-MR e Milestone no Gitlab, Pipeline de CI/CD também no Gitlab e testes automatizados com Jest e Typescript.
 
-Também produzi o **SDK** para facilitar a integração com a _Lunes Blockchain_ usando Typescript/JavaScript, Rust/WebAssembly, Docusaurus e Python
+Também produzi o **SDK** para facilitar a integração com a _Lunes Blockchain_ usando Typescript/JavaScript, Rust/WebAssembly, Docusaurus e Python.
 
 Além disso, participei ativamente no processo de seleção e _On-Board_ de novos membros organizando _Meetups_ para nivelar conhecimento entre as equipes.
 
@@ -25,7 +25,8 @@ Além disso, participei ativamente no processo de seleção e _On-Board_ de novo
 **Professor de Robótica**<br>
 **2020.fev - 2021.jun**
 
-Ajudei a resolver problemas de aprendizado/comportamento entres os alunos usando um sistema de gamificação baseado em **Machine Learning** para criação de métricas e acompanhamento.
+Ajudei a resolver problemas de aprendizado/comportamento entres os alunos, desenvolvendo um sistema de gamificação baseado em **Machine Learning** para criação de métricas e acompanhamento.
+
 No dia a dia dava aulas de robótica/computação usando **Arduino/ThinkerCAD** como plataforma de prototipagem e **Scratch/C++** para ensino de lógica e programação.
 
 ### Colégio Objetivo - Escola Champagnat
@@ -78,4 +79,4 @@ Participei da oficina de resolução de problemas da McKinsey&Company onde desen
 **Produção**: Estudo sobre os impactos da educação domiciliar (homeschooling) na socialização das crianças.
 
 **Atividades**: Durante a graduação participei do programa de monitoria de calouros.
-Ajudava alunos do curso de matemática, engenharia e administração da faculdade e alunos do ensino médio da comunidade pois a monitoria de matemática era aberta ao público.
+Ajudava alunos do curso de matemática, engenharia e administração da faculdade e alunos do ensino médio da comunidade, pois a monitoria de matemática era aberta ao público.
